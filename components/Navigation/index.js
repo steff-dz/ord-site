@@ -4,10 +4,10 @@ import styled from "styled-components";
 const Navigation = () => {
   return (
     <NavMenu>
-      <Link href="#">Om Klubben</Link>
-      <Link href="#">Bli Medlem</Link>
-      <Link href="#">Spons og kontakt</Link>
-      <Link href="#">Shop</Link>
+      <Link href="/about">Om Klubben</Link>
+      <Link href="/join">Bli Medlem</Link>
+      <Link href="/contact">Spons og kontakt</Link>
+      <Link href="/shop">Shop</Link>
     </NavMenu>
   );
 };
