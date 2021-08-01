@@ -13,7 +13,7 @@ const Navigation = () => {
 };
 
 const NavMenu = styled.nav`
-  font-size: 2rem;
+  font-size: 2.7rem;
   display: flex;
   gap: 3rem;
   justify-content: flex-end;
